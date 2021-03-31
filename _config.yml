@@ -1,2 +1,3 @@
 name: Qiao Zhou, Undergraduate Student
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
